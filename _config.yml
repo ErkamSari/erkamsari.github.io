@@ -1,1 +1,16 @@
 theme: minima
+title: "Erkam Sarı"
+author: "Erkam Sarı"
+description: "Adnan Menderes University"
+permalink: /:title/
+date_format: "%d %B, %Y"
+
+# Layout
+show_social: true
+
+# Menu
+navigation: 
+  - {file: "index.html", icon: home}
+external: 
+  - {title: Dersler, url: "https://erkamsari.github.io/dersler"}
+  
