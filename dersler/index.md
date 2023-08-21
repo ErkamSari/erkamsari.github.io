@@ -1,4 +1,4 @@
-[Back to Ana Sayfa](../index.md) | [Dersler](dersler/index.md) | [Go to CV & Contact](../cv-contact.md)
+[Ana Sayfa](../index.md) | [CV & Contact](../cv-contact.md)
 # Dersler
 
 - [Ders 1](DKvR.md)
