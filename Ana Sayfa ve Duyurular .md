@@ -1,1 +1,0 @@
-Burada duyurular yer alacak
