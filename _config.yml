@@ -10,7 +10,13 @@ show_social: true
 
 # Menu
 navigation: 
-  - {file: "index.html", icon: home}
+  - {title: "Ana Sayfa ve Duyurular", icon: home}
+  - {title: "Dersler"}
+  - {title: "CV & Contact"}
 external: 
-  - {title: Dersler, url: "https://erkamsari.github.io/dersler"}
+  - {title: Google Scholar, icon: google, url: "https://scholar.google.com/citations?user=r44aYPwAAAAJ&hl=tr"}
+  - {title: Research Gate, icon: researchgate, url: "https://www.researchgate.net/profile/Erkam-Sari-2"}
+  - {title: Twitter, icon: twitter, url: "https://twitter.com/ErkamSar2"}
+  
+  
   
