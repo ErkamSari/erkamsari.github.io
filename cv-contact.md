@@ -1,2 +1,2 @@
-[Ana Sayfa](index.md) | [Dersler](dersler/index.md) | [CV & Contact](cv-contact.md)
+[Ana Sayfa](index.md) | [Dersler](dersler/index.md) 
 CV vs.
