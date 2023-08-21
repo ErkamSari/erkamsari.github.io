@@ -2,24 +2,5 @@ remote_theme: jekyll/minima
 plugins:
   - jekyll-relative-links
 
-title: "Erkam Sarı"
-author: "Erkam Sarı"
-description: "Adnan Menderes University"
-permalink: /:title/
-date_format: "%d %B, %Y"
-
-# Layout
-show_social: true
-
-# Menu
-navigation: 
-  - {file: "Ana Sayfa ve Duyurular.md", title: "Ana Sayfa ve Duyurular"}
-  - {file: "Dersler.md", title: "Dersler"}
-  - {file: "CV&Contact.md", title: "CV & Contact"}
-external: 
-  - {title: Google Scholar, icon: google, url: "https://scholar.google.com/citations?user=r44aYPwAAAAJ&hl=tr"}
-  - {title: Research Gate, icon: researchgate, url: "https://www.researchgate.net/profile/Erkam-Sari-2"}
-  - {title: Twitter, icon: twitter, url: "https://twitter.com/ErkamSar2"}
-  
   
   
