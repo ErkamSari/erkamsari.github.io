@@ -1,2 +1,2 @@
 [Ana Sayfa](index.md) | [Dersler](dersler/index.md) | [CV & Contact](cv-contact.md)
-Burada duyurular yer alacak
+// Burada duyurular yer alacak
