@@ -10,8 +10,8 @@ show_social: true
 
 # Menu
 navigation: 
-  - {title: "Ana Sayfa ve Duyurular", icon: home}
-  - {title: "Dersler"}
+  - {file: "Ana Sayfa ve Duyurular.md", title: "Ana Sayfa ve Duyurular"}
+  - {file: "Dersler.md", title: "Dersler"}
   - {title: "CV & Contact"}
 external: 
   - {title: Google Scholar, icon: google, url: "https://scholar.google.com/citations?user=r44aYPwAAAAJ&hl=tr"}
