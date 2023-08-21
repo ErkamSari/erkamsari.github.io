@@ -1,1 +1,1 @@
-
+Burada duyurular yer alacak
