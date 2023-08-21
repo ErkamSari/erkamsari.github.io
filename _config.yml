@@ -1,3 +1,7 @@
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-relative-links
+
 title: "Erkam Sarı"
 author: "Erkam Sarı"
 description: "Adnan Menderes University"
